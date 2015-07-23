@@ -1,18 +1,3 @@
-# Students Name = Nick Iapalucci
-
-# Date = October 5, 2014
-
-# Assignment 4.2, #4.17
-# Write a program that plays rock-paper-scissor.  The program randomly
-# generates a number 0, 1, pr 2 representing scissor, rock and paper,
-# respectively. The program prompts the user to enter a number 0, 1, or
-# 2 and displays a message indicating whether the user or the computer
-# wins, loses, or draws.
-# Time Spent = 2 hours
-
-# Honor Code: I pledge that this program represents my own program code.
-# I received help from no one in designing and debugging my program.
-
 # include random module to generate opponent hand in this game of chance
 import random
 
