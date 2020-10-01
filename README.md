@@ -11,3 +11,4 @@ To create a simple game that is fun to play while learning some basic python con
 
 ## Installation
 This program can be run from a command line using Python.
+Try to learn the code and alter some changes that suits you, and have fun.
